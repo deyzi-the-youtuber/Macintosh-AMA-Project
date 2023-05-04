@@ -2,8 +2,4 @@
 A nice python program to talk to Macintosh!
 
 # Dependencies
-Install colorama module
-Install OS module
-Install image2console module
-Install subprocess module
-Install time module
+Install colorama module, install OS module, install image2console module, install subprocess module, install time module
