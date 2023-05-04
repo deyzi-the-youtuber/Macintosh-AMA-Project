@@ -1,0 +1,5 @@
+image2console
+subprocess
+time
+pygetwindow
+os
